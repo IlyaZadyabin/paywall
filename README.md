@@ -1,8 +1,5 @@
-## Slideshow
+## Preview
 
-https://user-images.githubusercontent.com/46046910/166562354-cf97be46-b38f-42f5-bef4-5d6097254049.mp4
-
-
-## Switch click
-
-https://user-images.githubusercontent.com/46046910/166562382-4353f179-a595-4a2b-b5eb-61aab8f70eb5.mov
+| Slideshow     | Switch click  |
+| ------------- | ------------- |
+| <video src="https://user-images.githubusercontent.com/46046910/181014196-a7226fab-f3c5-468b-aaeb-06e4a9a017be.mp4"> | <video src="https://user-images.githubusercontent.com/46046910/181014185-30c7ca83-bf9b-4c54-8137-5548cffca111.mov">|
